@@ -11,7 +11,7 @@ lib/libsensorlistener.so
 # GPS
 bin/gpsd:vendor/bin/gpsd
 bin/gps.cer:vendor/bin/gps.cer
-lib/hw/gps.default.so:lib/hw/gps.universal7580.so
+lib/hw/gps.default.so:lib/hw/gps.universal3475.so
 lib/libwrappergps.so
 lib/libfloatingfeature.so
 
