@@ -6,7 +6,7 @@ lib/libaptX_encoder.so|984739a0bc968e18f75ced205733fe3f51c2d4f0
 # Camera
 lib/libhwjpeg.so
 lib/libuniplugin.so
-lib/libsensorlistener.so
+#lib/libsensorlistener.so
 
 # GPS
 bin/gpsd:vendor/bin/gpsd
